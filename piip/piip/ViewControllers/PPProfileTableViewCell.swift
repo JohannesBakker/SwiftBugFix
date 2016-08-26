@@ -2,7 +2,7 @@
 //  PPProfileTableViewCell.swift
 //  piip
 //
-//  Created by jimmy on 7/4/16.
+//  Created by Johannes on 7/4/16.
 //  Copyright © 2016 Piip Mobile AG. All rights reserved.
 //
 

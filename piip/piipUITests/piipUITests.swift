@@ -2,8 +2,8 @@
 //  piipUITests.swift
 //  piipUITests
 //
-//  Created by jimmy on 6/30/16.
-//  Copyright © 2016 jimmy. All rights reserved.
+//  Created by Johannes on 6/30/16.
+//  Copyright © 2016 Johannes. All rights reserved.
 //
 
 import XCTest

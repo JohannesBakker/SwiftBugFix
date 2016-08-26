@@ -2,7 +2,7 @@
 //  PPWebScoketHelper.swift
 //  piip
 //
-//  Created by jimmy on 7/2/16.
+//  Created by Johannes on 7/2/16.
 //  Copyright © 2016 Piip Mobile AG. All rights reserved.
 //
 

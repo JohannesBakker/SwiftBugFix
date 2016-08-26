@@ -2,7 +2,7 @@
 //  PPUserSession.swift
 //  piip
 //
-//  Created by jimmy on 6/30/16.
+//  Created by Johannes on 6/30/16.
 //  Copyright © 2016 Piip Mobile AG. All rights reserved.
 //
 
